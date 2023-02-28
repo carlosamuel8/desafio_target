@@ -1,7 +1,7 @@
 
 
 # OBS: não encontrei o arquivo xml ou json em questão, então fiz com uma lista de valores aleatórios, 
-# onde os dias de final de semana terão faturamento igual a zero.
+# os dias de final de semana terão faturamento igual a zero.
 
 from random import randint
 
